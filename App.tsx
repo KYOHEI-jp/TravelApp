@@ -19,4 +19,12 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  safeView: {
+    flex:1 ,
+    backgroundColor: 'red',
+  },
+  view: {
+    flex:1,
+    backgroundColor:"yellow",
+  }
 });
